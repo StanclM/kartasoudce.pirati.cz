@@ -75,7 +75,7 @@
                   <div class="personal-data-item">
                     <div class="personal-data-label">Soudkyně:</div>
                     <div class="personal-data-value">
-                      JUDr. Helena Králová, nar. 12. 8. 1951
+                      JUDr. Helena Králová, nar. 1951
                     </div>
                   </div>
                   <div class="personal-data-item">
