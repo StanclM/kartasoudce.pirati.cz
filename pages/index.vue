@@ -12,7 +12,7 @@
           </h1>
           <div class="hero-cite">
             <cite class="head-alt text-lg md:text-2xl"
-              >„Lze souhlasit, že jistá podoba tzv. karty soudce obsahující
+              >„Lze souhlasit, že jistá podoba tzv. veřejné karty soudce obsahující
               kupříkladu profesní životopis a anonymizovaná rozhodnutí by mohla
               mít pozitivní vliv na transparentnost systému.“</cite
             >
