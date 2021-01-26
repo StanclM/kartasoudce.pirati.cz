@@ -12,7 +12,7 @@
           </h1>
           <div class="hero-cite">
             <cite class="head-alt text-lg md:text-2xl"
-              >„Veřejná karta soudce zajistí větší transparentnost v justici“</cite
+              >„Veřejné statistiky soudce zajistí větší transparentnost v justici“</cite
             >
             <p class="mt-2 text-lg md:text-xl">
               <strong>Mgr. et Mgr. Jakub Michálek, místopředseda ústavně právního výboru Poslanecké sněmovny</strong>
