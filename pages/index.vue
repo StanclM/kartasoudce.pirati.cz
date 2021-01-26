@@ -15,7 +15,7 @@
               >„Veřejné statistiky soudce zajistí větší transparentnost v justici“</cite
             >
             <p class="mt-2 text-lg md:text-xl">
-              <strong>Mgr. et Mgr. Jakub Michálek, místopředseda ústavně právního výboru Poslanecké sněmovny</strong>
+              <strong>Jakub Michálek, místopředseda ústavně právního výboru Poslanecké sněmovny</strong>
             </p>
           </div>
           <a
